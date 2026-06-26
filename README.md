@@ -1,4 +1,4 @@
-<img width="772" height="432" alt="image" src="https://github.com/user-attachments/assets/46cf86de-2cbe-40d8-80bf-b644fd397dd2" /># Slash – Frontend Engineer Assessment
+# Slash – Frontend Engineer Assessment
 
 ## Overview
 
@@ -271,5 +271,11 @@ The repository includes screenshots of:
 Thank you for reviewing my submission.
 
 I focused on keeping the code modular, reusable, and easy to maintain while implementing the requested functionality as closely as possible.
+<img width="772" height="432" alt="image" src="https://github.com/user-attachments/assets/46cf86de-2cbe-40d8-80bf-b644fd397dd2" />
+<img width="930" height="438" alt="Screenshot 2026-06-26 121443" src="https://github.com/user-attachments/assets/9053f200-34eb-4dab-be6d-4b85506dc6f3" />
+<img width="922" height="434" alt="image" src="https://github.com/user-attachments/assets/e3805e28-a5b5-4c43-b5f4-1a7a849ce24f" />
+<img width="923" height="437" alt="image" src="https://github.com/user-attachments/assets/a84dba2d-5301-4b1f-8df9-92489f823c30" />
+
+
 
 
